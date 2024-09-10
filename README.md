@@ -10,19 +10,23 @@ Built Todo app project built using  React
 ![Empty](src/Screenshot/Screenshot%202024-09-10%20100336.png)
 
 ### First Entry
-![First Entry](Screenshots/Screenshot%202024-09-05%20135223.png)
+![First Entry](src/Screenshots/Screenshot%202024-09-10%20103610.png)
 
 ### First Entry 2
-![First Entry 2](Screenshots/Screenshot%202024-09-05%20135236.png)
+![First Entry 2](src/Screenshots/Screenshot%202024-09-10%20103720.png)
 
 ### All Entries
-![All Entries](Screenshots/Screenshot%202024-09-05%20141608.png)
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20103746.png)
 
 ### Edit
-![All Entries](Screenshots/Screenshot%202024-09-05%20141700.png)
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20104035.png)
 
 ### Edit 2
-![All Entries](Screenshots/Screenshot%202024-09-05%20141713.png)
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20104259.png)
 
 ### Completed
-![All Entries](Screenshots/Screenshot%202024-09-05%20141733.png)
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20104427.png)
+### Completed
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20113246.png)
+### Completed
+![All Entries](src/Screenshots/Screenshot%202024-09-10%20113308.png)
