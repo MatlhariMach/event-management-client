@@ -10,7 +10,7 @@ Built Todo app project built using  React
 ![attendee](src/Screenshot/Screenshot%202024-09-10%20100336.png)
 
 ### Attendees
-![attendee](src/Screenshot/Screenshot 2024-09-10 103610.png)
+![attendee](src/Screenshot/Screenshot%202024-09-10%20103610.png)
 
 ### First Entry 2
 ![First Entry 2](src/Screenshots/Screenshot%202024-09-10%20103720.png)
