@@ -6,11 +6,11 @@
 Built Todo app project built using  React
 ## Screenshots
 
-### Empty
-![Empty](src/Screenshot/Screenshot%202024-09-10%20100336.png)
+### Add Attendee
+![attendee](src/Screenshot/Screenshot%202024-09-10%20100336.png)
 
-### First Entry
-![First Entry](src/Screenshots/Screenshot%202024-09-10%20103610.png)
+### Attendees
+![attendee](src/Screenshots/Screenshot%202024-09-10%20103610.png)
 
 ### First Entry 2
 ![First Entry 2](src/Screenshots/Screenshot%202024-09-10%20103720.png)
